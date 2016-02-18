@@ -1,0 +1,28 @@
+name: edumacationandy.com
+favicon: null
+layout_spectrum: 0.8873398965224624
+typography_spectrum: 0.3108071021270007
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.610470311017707
+  lightness: 0.9925382216461003
+  saturation: 0.5465237447060645
+  rhythmicContrast: 0.6318373801186681
+purpose: []
